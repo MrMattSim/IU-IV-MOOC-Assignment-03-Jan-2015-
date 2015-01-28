@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "@hrbrmstr"
+date: January 27, 2015
+output:
+  md_document:
+    variant: markdown_github
+---
+
+Geospatial visualization for IU IV MOOC 2015 (Jan) - Assignment 03

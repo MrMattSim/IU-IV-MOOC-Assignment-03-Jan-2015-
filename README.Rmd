@@ -8,3 +8,7 @@ output:
 ---
 
 Geospatial visualization for IU IV MOOC 2015 (Jan) - Assignment 03
+
+```{r echo=FALSE, results="asis"}
+cat("<img src='output/nuclear.gif'/>\n")
+```
